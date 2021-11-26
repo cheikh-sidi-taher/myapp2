@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932603460296",
+    "project_id": "myapp2-24554",
+    "storage_bucket": "myapp2-24554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932603460296:android:72251772ea3f37ac0dc3fd",
+        "android_client_info": {
+          "package_name": "com.cheikhh.myapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932603460296-5o13i2t5ev5ubrhb1shmv89cvh9cv8js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGf2Pzuy7YptByIDVzoXkA-FTLbSOqhUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932603460296-5o13i2t5ev5ubrhb1shmv89cvh9cv8js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
